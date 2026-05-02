@@ -4,7 +4,6 @@
 
 ### YouTube Videos
 - [Big-O Notation in 100 Seconds — Fireship](https://www.youtube.com/watch?v=g2o22C3CRfU)
-- [Big O Notation — Full Course — freeCodeCamp](https://www.youtube.com/watch?v=Mo4vesaut8g)
 
 ### Docs & Cheatsheets
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
