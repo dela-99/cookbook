@@ -1,9 +1,5 @@
 # Process vs Thread
 
-## Video
-
-- [Instagram Reel](https://www.instagram.com/reel/DXuGlN0jb8P/)
-
 ## The Interview Question
 
 > "Explain the difference between a process and a thread."

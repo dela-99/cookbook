@@ -1,9 +1,5 @@
 # Designing Google Docs
 
-## Video
-
-- [Instagram Reel](https://www.instagram.com/reel/DXmV_90jby3/)
-
 ## The Interview Question
 
 > "How would you design Google Docs?"

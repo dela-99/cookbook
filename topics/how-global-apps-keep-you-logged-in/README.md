@@ -2,10 +2,6 @@
 
 ![How Global Apps Keep You Logged In](../../media/topics/how-global-apps-keep-you-logged-in.png)
 
-## Video
-
-- [Instagram Reel](https://www.instagram.com/reel/DXj94w6DdMw/)
-
 ## The Interview Trap
 
 The question sounds easy:

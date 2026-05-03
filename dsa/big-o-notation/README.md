@@ -5,9 +5,6 @@
 ### YouTube Videos
 - [Big-O Notation in 100 Seconds — Fireship](https://www.youtube.com/watch?v=g2o22C3CRfU)
 
-### Instagram Reels
-- [Instagram Reel](https://www.instagram.com/reel/DX1usBhtc5Y/)
-
 ### Docs & Cheatsheets
 - [Big-O Cheat Sheet](https://www.bigocheatsheet.com/)
 - [Time Complexity — Wikipedia](https://en.wikipedia.org/wiki/Time_complexity)
