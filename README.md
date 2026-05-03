@@ -13,10 +13,10 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [Minikube — Kubernetes on Your Laptop](topics/minikube/) | `kubernetes` `minikube` `devops` `containers` | [Watch](https://www.instagram.com/reel/DVq58aGje3u/) |
 | [VPN vs Proxy](topics/vpn-vs-proxy/) | `networking` `security` `privacy` `vpn` `proxy` | [Watch](https://www.youtube.com/watch?v=VhLoxxOrwIo) |
 | [UUID](topics/uuid/) | `databases` `distributed-systems` `primary-keys` | [Watch](https://www.instagram.com/reel/DU0z5MxjZJN/) |
-| [How Global Apps Keep You Logged In](topics/how-global-apps-keep-you-logged-in/) | `system-design` `auth` `jwt` `sessions` `load-balancer` | _coming soon_ |
-| [Designing Google Docs](topics/design-google-docs/) | `system-design` `websockets` `operational-transform` `collaboration` | _coming soon_ |
-| [Process vs Thread](topics/process-vs-thread/) | `os` `concurrency` `processes` `threads` `interview` | _coming soon_ |
+| [How Global Apps Keep You Logged In](topics/how-global-apps-keep-you-logged-in/) | `system-design` `auth` `jwt` `sessions` `load-balancer` | [Watch](https://www.instagram.com/reel/DXj94w6DdMw/) |
+| [Designing Google Docs](topics/design-google-docs/) | `system-design` `websockets` `operational-transform` `collaboration` | [Watch](https://www.instagram.com/reel/DXmV_90jby3/) |
+| [Process vs Thread](topics/process-vs-thread/) | `os` `concurrency` `processes` `threads` `interview` | [Watch](https://www.instagram.com/reel/DXuGlN0jb8P/) |
 | [Regular Expressions (Regex)](topics/regex/) | `regex` `python` `text-processing` `validation` | _coming soon_ |
 | [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
-| [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | _coming soon_ |
+| [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | [Watch](https://www.instagram.com/reel/DX1usBhtc5Y/) |
