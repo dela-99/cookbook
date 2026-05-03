@@ -5,8 +5,7 @@ How to track exactly how long every API request takes in production using custom
 ## Run
 
 ```bash
-pip install -r requirements.txt
-uvicorn main:app --reload
+uv run uvicorn main:app --reload
 ```
 
 ## Test
