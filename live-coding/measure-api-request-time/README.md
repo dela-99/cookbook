@@ -34,3 +34,7 @@ curl -i http://localhost:8000/heavy-task
 ```
 
 You'll see `X-Process-Time: 1.5003s` in the response headers and a log in your terminal.
+
+## In Production
+
+This demo prints timing to the terminal and a response header. In a real production system you'd send that data to an observability tool like **OpenTelemetry**, **Prometheus**, or **Datadog** — same middleware pattern, just a different destination for the metrics.
