@@ -20,3 +20,9 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
 | [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | [Watch](https://www.instagram.com/reel/DX1usBhtc5Y/) |
+
+## Live Coding
+
+| Project | Tags | Video |
+|---------|------|-------|
+| [Measure API Request Time](live-coding/measure-api-request-time/) | `fastapi` `middleware` `performance` `interview` | _coming soon_ |
