@@ -26,3 +26,4 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | Project | Tags | Video |
 |---------|------|-------|
 | [Measure API Request Time](live-coding/measure-api-request-time/) | `fastapi` `middleware` `performance` `interview` | _coming soon_ |
+| [Rate Limiting](live-coding/rate-limiting/) | `fastapi` `rate-limiting` `slowapi` `security` `interview` | _coming soon_ |
