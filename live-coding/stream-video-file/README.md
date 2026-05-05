@@ -18,11 +18,17 @@ Your RAM stays flat regardless of file size. Even with 1,000 concurrent viewers,
 
 ## Why `yield` Instead of Returning the File?
 
-`yield` creates a generator. It reads 1MB, sends it to the client, clears it, and repeats. If the user pauses or closes the tab, the generator stops instantly — the connection closes, the file handle is released, and no resources are wasted.
+`yield` creates a generator. It reads 1MB, sends it to the client, clears it, and repeats. If the user pauses or closes the tab, the generator stops on the next chunk — the connection closes, the file handle is released, and no resources are wasted.
 
 ## What About Seeking (Skipping to the Middle)?
 
-This basic implementation streams from the beginning. For full seek support, you'd implement **HTTP Range Headers** — letting the browser request specific byte ranges instead of the whole stream.
+Browsers don't just download videos top-to-bottom — when you drag the scrubber, they send a `Range: bytes=START-END` header asking for a specific slice of the file. To support that we:
+
+1. Read the `Range` header off the request
+2. `seek()` to the requested byte offset
+3. Stream just that slice back with status `206 Partial Content` and a `Content-Range` header
+
+That's it — same generator, just starting from a different offset. Without this, Safari refuses to play the video at all and seeking is broken in every browser.
 
 ## Run
 
@@ -38,8 +44,8 @@ Place a video file named `large_video.mp4` in the project directory, then open i
 http://localhost:8000/video
 ```
 
-The browser starts playing as soon as the first chunks arrive thanks to the `media_type="video/mp4"` header.
+The browser starts playing as soon as the first chunks arrive — that's the streaming pattern in action.
 
 ## In Production
 
-This demo streams from the local filesystem. In a real production system you'd stream from object storage (S3, GCS), add HTTP Range Header support for seeking, and put a CDN in front for caching — same streaming pattern, just a different source and more headers.
+This demo streams from the local filesystem. In a real production system you'd stream from object storage (S3, GCS) and put a CDN in front for caching — same streaming pattern, just a different source.
