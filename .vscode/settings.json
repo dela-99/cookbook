@@ -1,0 +1,3 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/live-coding/rate-limiting/.venv/bin/python"
+}
