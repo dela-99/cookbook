@@ -21,6 +21,7 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
 | [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | [Watch](https://www.instagram.com/reel/DX1usBhtc5Y/) |
 | [Pre-Deployment Checklist](topics/pre-deployment-checklist/) | `deployment` `security` `production` `devops` `checklist` | _coming soon_ |
+| [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
 
 ## Live Coding
 
