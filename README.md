@@ -1,8 +1,18 @@
 # SayedDev Cookbook
 
-Quick-reference companion to my tech videos. Each topic has a brief explainer and curated resources.
+The deeper companion to my short-form videos. Every video on Instagram, TikTok, and YouTube Shorts gets ~60 seconds — this repo is where I unpack the concept, the tradeoffs, and the production-grade version of whatever was in the post.
 
-## Videos
+If you landed here from a "comment guide" → you're in the right place. Find the topic, read the long version, follow the linked resources for even deeper dives.
+
+## Follow Along
+
+- Instagram — [@sayed.developer](https://www.instagram.com/sayed.developer/)
+- TikTok — [@sayed.developer](https://www.tiktok.com/@sayed.developer)
+- YouTube — [@sayeddev](https://www.youtube.com/@sayeddev)
+
+## Topics
+
+Concept deep-dives, checklists, and roadmaps.
 
 | Topic | Tags | Video |
 |-------|------|-------|
@@ -19,13 +29,31 @@ Quick-reference companion to my tech videos. Each topic has a brief explainer an
 | [Regular Expressions (Regex)](topics/regex/) | `regex` `python` `text-processing` `validation` | _coming soon_ |
 | [DevOps Engineer Roadmap 2027](topics/devops-engineer-roadmap/) | `devops` `roadmap` `docker` `kubernetes` `terraform` `ci-cd` | _coming soon_ |
 | [Data Scientist Roadmap 2027](topics/data-scientist-roadmap/) | `data-science` `roadmap` `machine-learning` `python` `mlops` | _coming soon_ |
-| [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | [Watch](https://www.instagram.com/reel/DX1usBhtc5Y/) |
 | [Pre-Deployment Checklist](topics/pre-deployment-checklist/) | `deployment` `security` `production` `devops` `checklist` | _coming soon_ |
 | [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
+| [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 
 ## Live Coding
+
+Working FastAPI projects you can clone and run. Each one teaches one production-grade concept by building it.
 
 | Project | Tags | Video |
 |---------|------|-------|
 | [Measure API Request Time](live-coding/measure-api-request-time/) | `fastapi` `middleware` `performance` `interview` | _coming soon_ |
 | [Rate Limiting](live-coding/rate-limiting/) | `fastapi` `rate-limiting` `slowapi` `security` `interview` | _coming soon_ |
+
+## Data Structures & Algorithms
+
+Interview-grade DSA topics, framed around the questions you'll actually be asked.
+
+| Topic | Tags | Video |
+|-------|------|-------|
+| [Big O Notation](dsa/big-o-notation/) | `dsa` `big-o` `complexity` `interview` | [Watch](https://www.instagram.com/reel/DX1usBhtc5Y/) |
+
+## Claude Code Tricks
+
+How I actually use Claude Code day-to-day — the commands, shortcuts, and workflow tips that compound.
+
+| Topic | Tags |
+|-------|------|
+| [Favourite Claude Code Commands](claude-tricks/favourite-claude-commands/) | `claude-code` `productivity` `tooling` |

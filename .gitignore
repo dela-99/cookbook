@@ -26,3 +26,7 @@ build/
 # IDE
 .idea/
 .vscode/
+
+# Internal authoring tools (kept local, not part of the public cookbook)
+CLAUDE.md
+templates/
