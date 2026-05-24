@@ -33,6 +33,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [RAG Chunking Strategy](topics/rag-chunking-strategy/) | `rag` `vector-database` `chunking` `embeddings` `ai-engineering` | _coming soon_ |
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 | [CDN Anycast Routing](topics/cdn-anycast-routing/) | `cdn` `system-design` `networking` `anycast` `latency` `interview` | _coming soon_ |
+| [Bulk Loads & Indexes](topics/bulk-loads-and-indexes/) | `databases` `indexes` `performance` `b-tree` `bulk-loads` `interview` | _coming soon_ |
 
 ## Live Coding
 
