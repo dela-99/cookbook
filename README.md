@@ -34,6 +34,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Kotlin Multiplatform](topics/kotlin-multiplatform/) | `mobile` `kotlin` `multiplatform` `android` `ios` `compose` | _coming soon_ |
 | [CDN Anycast Routing](topics/cdn-anycast-routing/) | `cdn` `system-design` `networking` `anycast` `latency` `interview` | _coming soon_ |
 | [Bulk Loads & Indexes](topics/bulk-loads-and-indexes/) | `databases` `indexes` `performance` `b-tree` `bulk-loads` `interview` | _coming soon_ |
+| [Real-Time Collaboration App — Pre-Launch Checklist](topics/real-time-collaboration-checklist/) | `system-design` `websockets` `crdt` `realtime` `collaboration` `checklist` | _coming soon_ |
 
 ## Live Coding
 
