@@ -36,6 +36,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Bulk Loads & Indexes](topics/bulk-loads-and-indexes/) | `databases` `indexes` `performance` `b-tree` `bulk-loads` `interview` | _coming soon_ |
 | [Real-Time Collaboration App — Pre-Launch Checklist](topics/real-time-collaboration-checklist/) | `system-design` `websockets` `crdt` `realtime` `collaboration` `checklist` | _coming soon_ |
 | [Composite Indexes — The Multi-Column Index Trap](topics/composite-indexes/) | `databases` `indexes` `composite-indexes` `b-tree` `query-optimization` `interview` | _coming soon_ |
+| [Designing Google Drive](topics/design-google-drive/) | `system-design` `file-storage` `blob-storage` `pre-signed-urls` `azure` `aws` `interview` | _coming soon_ |
 
 ## Live Coding
 
