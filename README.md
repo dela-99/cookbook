@@ -37,6 +37,7 @@ Concept deep-dives, checklists, and roadmaps.
 | [Real-Time Collaboration App — Pre-Launch Checklist](topics/real-time-collaboration-checklist/) | `system-design` `websockets` `crdt` `realtime` `collaboration` `checklist` | _coming soon_ |
 | [Composite Indexes — The Multi-Column Index Trap](topics/composite-indexes/) | `databases` `indexes` `composite-indexes` `b-tree` `query-optimization` `interview` | _coming soon_ |
 | [Designing Google Drive](topics/design-google-drive/) | `system-design` `file-storage` `blob-storage` `pre-signed-urls` `azure` `aws` `interview` | _coming soon_ |
+| [Agent Harness — The Deterministic Layer Around Your LLM](topics/agent-harness/) | `ai-engineering` `agents` `agent-harness` `claude-code` `reliability` `production` `interview` | _coming soon_ |
 
 ## Live Coding
 
