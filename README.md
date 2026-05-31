@@ -1,4 +1,4 @@
-# SayedDev Cookbook
+# RidgeDev🫩 Cookbook
 
 The deeper companion to my short-form videos. Every video on Instagram, TikTok, and YouTube Shorts gets ~60 seconds — this repo is where I unpack the concept, the tradeoffs, and the production-grade version of whatever was in the post.
 
